@@ -1,11 +1,11 @@
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header">
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="600px">
+    <img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="500px">
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=30&center=true&vCenter=true&width=1000&lines=Interligando+artesãos,+costurando+novas+histórias.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=23&center=true&vCenter=true&width=1000&lines=Interligando+artesãos,+costurando+novas+histórias.+)](https://git.io/typing-svg)
 
 ##
 
