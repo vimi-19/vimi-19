@@ -12,9 +12,9 @@
 <h3 align="center">💜 - O que é a Vimi?</h3>
 <br>
 <div align="left"><p>Somos uma plataforma tecnológica e sustentável focada exclusivamente na valorização do artesão brasileiro. 
-Na nossa plataforma, vocè encontrará seções como nosso <b>Marketplace</b>, que oferece ao artesão a chance de vender seu produto com um sistema inclusivo, seguro e adequado a todas as suas necessidades, desde o primeiro contato com o cliente, até a logística de entrega. 
-Ou, entãp, nossa <b>área educacional</b> que busca dar uma oportunidade a mais pro profissional cadastrado na nossa plataforma, que seria a de vender seu conhecimento através de cursos. Como um ecossistema de professor e aluno, onde ele <b>ensina</b> e também pode <b>aprender</b>. Recompensaremos como destaques no site, cada um daqueles que estão engajados com a Vimi nesse sistema que se diferencia pela sua essência orgânica. 
-Por último, também planejamos expandir a marca Vimi para mais <b>eventos</b> e <b>feiras culturais</b>. Isto é, bem como no dia 21/11/22, onde apresentamos a nossa primeira feira, sob a realização do Instituto PROA e do Senac Lapa Tito, que gerou um evento sustentável para todos os nossos participantes.</p></div>
+Na nossa plataforma, vocè encontrará seções como o <b>Marketplace</b>, que oferece ao artesão a chance de vender seu produto com um sistema inclusivo, seguro e adequado a todas as suas necessidades, desde o primeiro contato com o cliente, até a logística de entrega. 
+Ou, então, a <b>área educacional</b> que busca dar uma oportunidade a mais pro profissional cadastrado na plataforma, que seria a de vender seu conhecimento através de cursos. Como um ecossistema de professor e aluno, onde ele <b>ensina</b> e também pode <b>aprender</b>. Recompensaremos como destaques no site, aaqueles que estão engajados com a Vimi nesse sistema que se diferencia pela sua essência orgânica. 
+Também planejamos expandir a marca para mais <b>eventos</b> e <b>feiras culturais</b>. Isto é, bem como no dia 21/11/22, onde apresentamos a nossa primeira feira, sob a realização do Instituto PROA e do Senac Lapa Tito, que gerou um evento sustentável para todos os nossos participantes.</p></div>
 <br>
 
 ##
@@ -22,15 +22,23 @@ Por último, também planejamos expandir a marca Vimi para mais <b>eventos</b> e
 <h3 align="center">💜 - Nossa equipe!</h3>
     <br>
 	<div align="center">
-		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
+		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
         <a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
         <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
-        <a href="https://www.linkedin.com/in/soraia-santana-lima/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213768742-a615ba7e-23f2-45e0-9de6-c4bd4e5af91d.png" width="200px">
+        <a href="https://www.linkedin.com/in/soraia-santana-lima/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213821742-2a66e0e0-c60c-462f-94b8-b40fec51d021.png" width="200px">
         <br>
         <a href="https://www.linkedin.com/in/wictor-huggo-marques/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213772926-f2753bc8-ac96-4058-91ab-22f6a20ac077.png" width="200px">
         <a href="https://www.linkedin.com/in/guilherme-santos-macedo/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213821490-6f242078-d7f3-44ea-a8c1-0a69f4710f9f.png" width="200px">
         <a href="https://www.linkedin.com/in/paulo-andres/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213765819-e0d5956e-38f8-4ee2-8ebd-0a1ac33a504f.png" width="200px">
-        <a href="https://www.linkedin.com/in/nauaizidorio/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
+        <a href="https://www.linkedin.com/in/nauaizidorio/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
+	
+##
+
+<h3 align="center">💜 - Saiba mais!</h3>
+<br>
+<div align="center">
+<a href="https://linktr.ee/vimi19"><img src="imagens/Linktree.svg" width="80px"></a>
+</div>
 		
 
 
