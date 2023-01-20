@@ -23,7 +23,7 @@ Por último, também planejamos expandir a marca Vimi para mais <b>eventos</b> e
     <br>
 	<div align="center">
 		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
-        <a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
+        <a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
         <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
         <a href="https://www.linkedin.com/in/soraia-santana-lima/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213768742-a615ba7e-23f2-45e0-9de6-c4bd4e5af91d.png" width="200px">
         <br>
