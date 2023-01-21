@@ -30,7 +30,7 @@ Também planejamos expandir a marca para mais <b>eventos</b> e <b>feiras cultura
         <a href="https://www.linkedin.com/in/wictor-huggo-marques/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213772926-f2753bc8-ac96-4058-91ab-22f6a20ac077.png" width="200px">
         <a href="https://www.linkedin.com/in/guilherme-santos-macedo/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213821490-6f242078-d7f3-44ea-a8c1-0a69f4710f9f.png" width="200px">
         <a href="https://www.linkedin.com/in/paulo-andres/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213765819-e0d5956e-38f8-4ee2-8ebd-0a1ac33a504f.png" width="200px">
-        <a href="https://www.linkedin.com/in/nauaizidorio/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
+        <a href="https://www.linkedin.com/in/nauaizidorio/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213886051-9ac10116-4b5e-41c9-b653-8b92e0e204c1.png" width="200px">
 	
 ##
 
