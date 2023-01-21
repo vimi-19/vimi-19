@@ -37,8 +37,10 @@ Também planejamos expandir a marca para mais <b>eventos</b> e <b>feiras cultura
 <h3 align="center">💜 - Saiba mais!</h3>
 <br>
 <div align="center">
-<a href="https://linktr.ee/vimi19"><img src="imagens/Linktree.svg" width="80px"></a>
+<a href="https://linktr.ee/vimi19"><img src="https://user-images.githubusercontent.com/116390922/213828289-1920c3e7-6391-4500-b10c-b56903d794e0.png" width="200px"></a>
 </div>
+<br>
 		
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header">
 
 
