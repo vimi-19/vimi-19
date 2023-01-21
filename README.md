@@ -24,7 +24,7 @@ Também planejamos expandir a marca para mais <b>eventos</b> e <b>feiras cultura
 	<div align="center">
 		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
         <a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
-        <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/212760504-5eb8018c-7818-4b02-9ad6-a716b92a62a5.png" width="200px">
+        <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213827715-13ff7875-5d99-49f0-acf3-caad1d8a39d7.png" width="200px">
         <a href="https://www.linkedin.com/in/soraia-santana-lima/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213821742-2a66e0e0-c60c-462f-94b8-b40fec51d021.png" width="200px">
         <br>
         <a href="https://www.linkedin.com/in/wictor-huggo-marques/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213772926-f2753bc8-ac96-4058-91ab-22f6a20ac077.png" width="200px">
