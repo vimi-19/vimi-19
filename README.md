@@ -22,7 +22,7 @@ Também planejamos expandir a marca para mais <b>eventos</b> e <b>feiras cultura
 <h3 align="center">💜 - Nossa equipe!</h3>
     <br>
 	<div align="center">
-		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
+		<a href="https://www.linkedin.com/in/leonardo-garcia-ferreira/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213885981-cf3174e3-ba0a-4c20-8734-b0f549df81d3.png" width="200px">
         <a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213774327-37dc7ab4-35e3-42ca-b8f1-5d6c986dc45c.png" width="200px">
         <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213827715-13ff7875-5d99-49f0-acf3-caad1d8a39d7.png" width="200px">
         <a href="https://www.linkedin.com/in/soraia-santana-lima/" target="_blank"><img src="https://user-images.githubusercontent.com/116390922/213821742-2a66e0e0-c60c-462f-94b8-b40fec51d021.png" width="200px">
